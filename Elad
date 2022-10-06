@@ -1,6 +1,6 @@
 getgenv().StealthMode = true
-getgenv().NamekianSlot = "Slot1"
-getgenv().DesiredSlot = "Slot2"
+getgenv().NamekianSlot = "Slot2"
+getgenv().DesiredSlot = "Slot3"
 getgenv().Manual = false
 LagGenerator = 0.2 --make it so ur ping is around 280-320
 
